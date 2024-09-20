@@ -4,7 +4,7 @@
 ### Objective:
 The project aims to build a dashboard for the World Happiness Index 2021, visualizing various factors that influence happiness across different countries. <br/>
 Data Sources: The dashboard uses data from the World Happiness Report 2021 by the United Nations. <br/>
-Interactive Tableau dashboard: [Link](https://public.tableau.com/shared/HMS5QDTKK?:display_count=n&:origin=viz_share_link)
+Interactive Tableau dashboard: [Link](https://public.tableau.com/app/profile/aufar.tirta.firdaus/viz/happiness_17010340325060/Dashboard1)
 
 ### Key Metrics:
 The dashboard focuses on metrics such as GDP per capita, life expectancy, perception of corruption, freedom to make life choices, social support, and generosity.
